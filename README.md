@@ -13,7 +13,7 @@ This project analyzes Flipkart product data using Python. The notebook explores 
 
 # Visualizations
 [View Chart](https://github.com/yashraikwar-prog/Flipkart-Mobiles-Sales-Analysis-using-Python-Libraries/blob/main/Top%20brands%20by%20no%20of%20reviews.png)
-- [Average Discount by Brand](https://github.com/yashraikwar-prog/Flipkart-Mobiles-Sales-Analysis-using-Python-Libraries/blob/main/Average%20Discount%20by%20Brand.png)
+(https://github.com/yashraikwar-prog/Flipkart-Mobiles-Sales-Analysis-using-Python-Libraries/blob/main/Average%20Discount%20by%20Brand.png)
 - [Number of Products by Brand](https://github.com/yashraikwar-prog/Flipkart-Mobiles-Sales-Analysis-using-Python-Libraries/blob/main/Number%20of%20Products%20by%20Brand.png)
 - [Distribution of Ratings](https://github.com/yashraikwar-prog/Flipkart-Mobiles-Sales-Analysis-using-Python-Libraries/blob/main/Distribution%20of%20Ratings.png)
 - [Average Ratings of Top 5 Brands](https://github.com/yashraikwar-prog/Flipkart-Mobiles-Sales-Analysis-using-Python-Libraries/blob/main/Avg%20Ratings%20of%20top%205%20brands.png)
